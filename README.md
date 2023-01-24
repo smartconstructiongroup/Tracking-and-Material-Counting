@@ -18,6 +18,6 @@ We put google colab code for this part on the Dtection folder.
 #### Classification
 We finetuned [DenseNet-161](https://github.com/flyyufelix/DenseNet-Keras) in keras platform for our three classes of material (0: *left*, 1: *frontal*, and 2: *right*). We put the finetuned denseNet for own data, implementing google colab on the Classificatin folder.
 #### Counting
-Site operatives counted by the results of the detection phase. However, the materials counted by MC module, which is based on morphology operations, Hough Transform, and post processing algorithm.
+Site operatives counted by the results of the detection phase. However, the materials counted by MC module, which is based on the morphology operations, Hough Transform, and post processing algorithm.
 #### Prediction
 Finally, our framework could predict the rate of waste, installed, imported and the number of operative sites in a scene.
