@@ -1,3 +1,4 @@
 # Tracking-and-Material-Counting
 
-This Repository will be completed soon.
+This repo is the implementation of our paper:
+Deep-Learning Based Construction Progress Tracking and Material Counting Using Existing Site Surveillance Camera
