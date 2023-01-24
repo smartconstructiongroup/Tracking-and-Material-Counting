@@ -1,4 +1,4 @@
-# Tracking-and-Material-Counting
+# Tracking and Material Counting
 
 This repo is an implementation of our paper:
 
