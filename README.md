@@ -14,3 +14,4 @@ Main steps of the framework are:
 #### Detection
 For object detection, we used [Yolov4 code](https://github.com/AlexeyAB/darknet) as a basic code and then improving loss function on it.
 For running Yolov4 on own dataset, we modified **obj.name**, **obj.dat**, **yolov4.cfg**, and **src/**.
+We put google colab code for this part on Dtection folder.
