@@ -10,6 +10,7 @@ Main steps of the framework are:
 - Couting
 - Prediction
 
+In the following image, you can see the steps of the farmework with more details.
 ![main_figure1](https://user-images.githubusercontent.com/119409598/216583159-1b5eb1fe-525b-44cf-a351-941d647f44de.gif)
 
 ## Configuration
@@ -23,4 +24,5 @@ We finetuned [DenseNet-161](https://github.com/flyyufelix/DenseNet-Keras) in ker
 Site operatives counted by the results of the detection phase. However, the materials counted by MC module, which is based on the morphology operations, Hough Transform, and post processing algorithm.
 #### Prediction
 Finally, our framework could predict the rate of waste, installed, and imported materials and also the number of operative sites in a scene.
+In the following image, you can see a shot of output showing the online results of our method.
 ![results](https://user-images.githubusercontent.com/119409598/216586314-dd6eae0f-ce20-4a97-b88d-9a1f280bd50a.gif)
