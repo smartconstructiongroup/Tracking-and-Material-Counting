@@ -24,5 +24,5 @@ We finetuned [DenseNet-161](https://github.com/flyyufelix/DenseNet-Keras) in ker
 Site operatives counted by the results of the detection phase. However, the materials counted by MC module, which is based on the morphology operations, Hough Transform, and post processing algorithm.
 #### Prediction
 Finally, our framework could predict the rate of waste, installed, and imported materials and also the number of operative sites in a scene.
-In the following image, you can see a shot of output showing the online results of our method.
+In the following image, you can the results of the framework.
 ![results](https://user-images.githubusercontent.com/119409598/216588602-6705e122-1ef9-444e-8da3-7cadf092372b.gif)
