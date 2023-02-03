@@ -25,4 +25,4 @@ Site operatives counted by the results of the detection phase. However, the mate
 #### Prediction
 Finally, our framework could predict the rate of waste, installed, and imported materials and also the number of operative sites in a scene.
 In the following image, you can see a shot of output showing the online results of our method.
-![results](https://user-images.githubusercontent.com/119409598/216586314-dd6eae0f-ce20-4a97-b88d-9a1f280bd50a.gif)
+![results](https://user-images.githubusercontent.com/119409598/216588602-6705e122-1ef9-444e-8da3-7cadf092372b.gif)
