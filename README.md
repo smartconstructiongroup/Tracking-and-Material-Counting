@@ -9,6 +9,7 @@ Main steps of the framework are:
 - Classification
 - Couting
 - Prediction
+
 ![main_figure1](https://user-images.githubusercontent.com/119409598/216583159-1b5eb1fe-525b-44cf-a351-941d647f44de.gif)
 
 ## Configuration
